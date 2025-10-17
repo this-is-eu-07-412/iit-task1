@@ -1,8 +1,8 @@
-Will AI Take Our Jobs?  
+# Will AI Take Our Jobs?  
 
-CAUTION: This is AI-generated overview on the given topic.
+> CAUTION: This is AI-generated overview on the given topic.
 
-TL;DR: AI won’t replace all jobs, but it will reshape tasks within most jobs, speed up some careers, diminish others, and create new roles. The outcome depends on how we adopt AI, how quickly we reskill, and which policies we put in place.
+> **TL;DR**: AI won’t replace *all* jobs, but it will reshape **tasks** within most jobs, speed up some careers, diminish others, and create new roles. The outcome depends on **how** we adopt AI, how quickly we **reskill**, and which **policies** we put in place.
 
 ---
 
