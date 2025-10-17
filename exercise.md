@@ -4,46 +4,43 @@
 
 > **TL;DR**: AI won’t replace *all* jobs, but it will reshape **tasks** within most jobs, speed up some careers, diminish others, and create new roles. The outcome depends on **how** we adopt AI, how quickly we **reskill**, and which **policies** we put in place.
 
----
-
 # 1) The wrong question: jobs vs. tasks
 
 When people ask “Will AI take our jobs?”, they usually imagine whole occupations disappearing. History (electricity, PCs, the internet) suggests something subtler: technologies **automate tasks**, which changes **job content**, **productivity**, and **demand**. That’s why economists talk about task-level automation rather than job-level extinction.
 
-1. **Automation**: AI directly performs parts of the work (e.g., summarizing emails, drafting text, classifying support tickets).  
-2. **Augmentation**: AI helps humans do the work faster or better (e.g., code suggestions, data cleaning assistants).  
-3. **Reallocation**: Time saved on automated tasks shifts to higher‑value activities (customer interaction, design, problem solving).
+- **Automation**: AI directly performs parts of the work (e.g., summarizing emails, drafting text, classifying support tickets).
+- **Augmentation**: AI helps humans do the work faster or better (e.g., code suggestions, data cleaning assistants).  
+- **Reallocation**: Time saved on automated tasks shifts to higher‑value activities (customer interaction, design, problem solving).
 
 A good rule of thumb:
 
 | Today’s reality | What changes with AI |
 |---|---|
 | Jobs are bundles of many tasks. | Some tasks get automated; the rest rise in relative importance. |
-| Experience → productivity gains. | AI can compress the experience curve for juniors. |
+| Experience → productivity gains. | AI can **compress the experience curve** for juniors. |
 | Skills decay without practice. | Continuous learning + AI tools becomes part of the job. |
 
-> Key idea: Tasks are automated; jobs are redesigned.
+> **Key idea**: **Tasks** are automated; **jobs** are redesigned.
 
----
+# 2) What the best recent evidence says
 
-2) What the best recent evidence says
+**Short‑term productivity effects (micro evidence).**  
 
-Short‑term productivity effects (micro evidence).  
-- A large field study in a Fortune 500 contact center found that giving agents a generative‑AI assistant increased issues resolved per hour by ~14%, with the biggest gains for the least‑experienced agents—and better customer sentiment.[^nber]  
-- A preregistered experiment with 444 professionals on writing tasks showed time to complete fell ~37% and quality rose ~0.4 SD with access to a chatbot; benefits were strongest for lower‑ability writers.[^noyzhang]
+- A large field study in a Fortune 500 contact center found that giving agents a generative‑AI assistant increased **issues resolved per hour by ~14%**, with the **biggest gains for the least‑experienced agents**—and better customer sentiment.[^nber]  
+- A preregistered experiment with 444 professionals on writing tasks showed **time to complete fell ~37%** and **quality rose ~0.4 SD** with access to a chatbot; benefits were strongest for lower‑ability writers.[^noyzhang]
 
-Medium‑term labor‑market exposure (macro evidence).  
-- The IMF estimates about 40% of global employment is exposed to AI (higher in advanced economies), with mixed effects: some jobs will be complemented (higher productivity, possibly higher wages), others displaced.[^imfblog]  
-- An ILO global analysis (using ISCO data + GPT‑4 task mapping) suggests most occupations are more exposed to augmentation than full automation; clerical work shows the highest automation exposure.[^ilo]  
-- The OECD Employment Outlook finds early deployments more often change job quality and tasks than reduce employment outright—so far. Effects on job quantity may lag adoption.[^oecd]
+**Medium‑term labor‑market exposure (macro evidence).**
 
-Forecasts (always uncertain).  
-- The WEF Future of Jobs 2025 projects ~170 million jobs created and ~92 million displaced globally by 2030 (a net +78 million), driven by tech, green transition, and demographics. Skills needs will shift toward AI/data, cybersecurity, and adaptability.[^wef2025]  
-- McKinsey modeling suggests ~27–30% of hours in Europe/US could be automated by 2030 (genAI accelerates this), implying millions of occupational transitions and a major skills upgrade agenda.[^mgi2024]
+- The **IMF** estimates about **40% of global employment** is exposed to AI (higher in advanced economies), with mixed effects: some jobs will be complemented (higher productivity, possibly higher wages), others displaced.[^imfblog]  
+- An **ILO** global analysis (using ISCO data + GPT‑4 task mapping) suggests most occupations are **more exposed to augmentation than full automation**; clerical work shows the highest automation exposure.[^ilo]  
+- The **OECD Employment Outlook** finds early deployments more often **change job quality and tasks** than reduce employment outright—so far. Effects on job quantity may lag adoption.[^oecd]
 
-Takeaway: In the near term, AI looks more like a broad productivity booster and task reshuffler than a universal job destroyer. Over time, transitions could be large—and uneven.
+**Forecasts (always uncertain).**  
 
----
+- The **WEF Future of Jobs 2025** projects ~**170 million jobs created** and ~**92 million displaced** globally by 2030 (a **net +78 million**), driven by tech, green transition, and demographics. Skills needs will shift toward AI/data, cybersecurity, and adaptability.[^wef2025]  
+- **McKinsey** modeling suggests **~27–30% of hours** in Europe/US could be automated by 2030 (genAI accelerates this), implying millions of **occupational transitions** and a major skills upgrade agenda.[^mgi2024]
+
+> **Takeaway:** In the near term, AI looks more like a **broad productivity booster** and **task reshuffler** than a universal job destroyer. Over time, transitions could be large—and uneven.
 
 3) Who’s at risk, who benefits?
 
